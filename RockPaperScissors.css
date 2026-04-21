@@ -1,0 +1,81 @@
+body
+{
+    background-color: rgb(25,25,25);
+    color:white;
+    font-family: Arial;
+    align-items: center;
+    text-align: center;
+}
+.title
+{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.emoji
+{
+    height: 70px;
+}
+.moveButton
+{
+    background-color: transparent;
+    border: 3px solid white;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.res
+{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.sc
+{
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.resetb
+{
+    margin-right: 5px;
+}
+.yb,.nb
+{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight:700;
+    cursor: pointer;
+    margin-left: 8px;
+}
+.resetb,.ap
+{
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight:700;
+    cursor: pointer;
+}
+.s
+{
+    margin-left: 40px;
+}
+.c
+{
+    margin-right: 25px;
+}
+.d
+{
+    margin-left: 12px;
+}
+.cnf
+{
+    margin-top: 20px;
+    font-size: 17px;
+}   
